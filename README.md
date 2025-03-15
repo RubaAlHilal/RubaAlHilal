@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> 
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rubaalhilal"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+<a href="mailto:developerruba@outlook.com"><img align="center" src="https://img.shields.io/badge/Outlook-blue?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="https://www.behance.net/rubaalhilal"><img align="center" src="https://img.shields.io/badge/Behance-grey?&style=for-the-badge&logo=Behance&logoColor=white" /></a>
+<a href="https://github.com/RubaAlHilal"><img align="center" src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+
+</div>
+
 
 <p>I'm Ruba Al Hilal</p>
 
