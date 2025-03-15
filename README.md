@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 <p>I'm Ruba Al Hilal</p>
+
+<p align="left">📱 I'm a front-end Mobile App Developer.<br>💻 I’m working on front-end projects using Dart & Flutter.<br>🎯 My goal is to develop myself in app development and learn more technologies.<be>📫 To contact me: developerruba@outlook.com</p>
+
 <!--
 **RubaAlHilal/RubaAlHilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
